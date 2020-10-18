@@ -1,0 +1,16 @@
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive.deps.json
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.json
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.dev.json
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive.dll
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/Receive.pdb
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/root/Documentos/project/dotnet/rabbitmq/Receive/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.csprojAssemblyReference.cache
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfoInputs.cache
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfo.cs
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CoreCompileInputs.cache
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CopyComplete
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.dll
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.pdb
+/root/Documentos/project/dotnet/rabbitmq/Receive/obj/Debug/netcoreapp3.1/Receive.genruntimeconfig.cache

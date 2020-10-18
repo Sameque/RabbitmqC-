@@ -1,0 +1,16 @@
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send.deps.json
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.json
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.dev.json
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send.dll
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/Send.pdb
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/root/Documentos/project/dotnet/rabbitmq/Send/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.csprojAssemblyReference.cache
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfoInputs.cache
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfo.cs
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.csproj.CoreCompileInputs.cache
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.csproj.CopyComplete
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.dll
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.pdb
+/root/Documentos/project/dotnet/rabbitmq/Send/obj/Debug/netcoreapp3.1/Send.genruntimeconfig.cache
